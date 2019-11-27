@@ -110,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # CORS Config
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3000'
+    'http://localhost:3000',
 )
 
 # RestFramework Config
